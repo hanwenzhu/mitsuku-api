@@ -1,0 +1,5 @@
+# You won't actually look at this comment, will you?
+# I wonder if there's any PEP on `requirements.txt`.
+beautifulsoup4
+lxml
+requests
